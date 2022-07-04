@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "types": ["cypress","cypress-real-events","cypress-xpath","cypress-axe"]
+    },
+    "include": [
+      // list files one by one to slowly type check and fix all specs
+      "./cypress/integration/examples/*.spec.js"
+    ]
+  }
