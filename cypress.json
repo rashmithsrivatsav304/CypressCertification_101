@@ -8,8 +8,9 @@
     "execTimeout": 60000,
     "pageLoadTimeout": 60000,
     "requestTimeout": 15000,
-    "responseTimeout": 15000,
+    "responseTimeout": 18000,
     "video": true,
     "failOnStatusCode": false,
     "projectId": "x34s8f"
   }
+  
